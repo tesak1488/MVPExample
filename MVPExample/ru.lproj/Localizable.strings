@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  MVPExample
+
+  Created by Kovalev_A on 21.10.17.
+  Copyright © 2017 Kovalev_A. All rights reserved.
+*/
+
+"GitHub repositories" = "GitHub репозитории";
+
+"There are no repositories" = "Репозитории отсутствуют";
